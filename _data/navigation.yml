@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "vForth"
+    url: /vforth/
+  - title: "GitHub"
+    url: https://github.com/mattsteeldue
+    target: _blank
