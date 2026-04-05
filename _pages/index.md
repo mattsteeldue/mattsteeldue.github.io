@@ -21,8 +21,10 @@ Since 1990 I have been developing **vForth**, a Forth system for the ZX Spectrum
 I actively contribute to the community by:
 - Maintaining **vforth-next** with full Z80N support and hardware integration (Layer 2, sprites, DMA, copper, sound, NextOS)
 - Writing technical articles for the official [SpecNext Developer HQ](https://specnext.dev/blog/topic/software/forth/)
-- Sharing videos and presentations on my [YouTube channel @mttsteel](https://www.youtube.com/@mttsteel)
+- Sharing videos and presentations on my [YouTube channel](https://www.youtube.com/@mttsteel)
 - Administering the Facebook group [Forth on the ZX Spectrum, Next and 48K](https://www.facebook.com/groups/1326098804442710)
+- Contributing on other Facebook groups on [Spectrum Next](https://www.facebook.com/groups/specnext)) and [Next Basic](https://www.facebook.com/groups/ZXNextBasic)
+
 
 I also enjoy exploring quantum computing and playing guitar in my free time.
 
@@ -37,7 +39,7 @@ I also enjoy exploring quantum computing and playing guitar in my free time.
 Feel free to connect with me on:
 - [GitHub](https://github.com/mattsteeldue)
 - [LinkedIn](https://www.linkedin.com/in/matteovitturi/)
-- [X @mattsteel](https://twitter.com/mattsteel)
+- [X Twitter](https://twitter.com/mattsteel)
 
 I'm always happy to discuss Forth, retro computing, or technical challenges.
 
