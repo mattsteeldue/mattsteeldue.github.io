@@ -11,7 +11,7 @@ toc: true
 **Senior Application Operations Engineer**  
 Venice, Italy  
 
-[GitHub](https://github.com/mattsteeldue) • [YouTube @mttsteel](https://www.youtube.com/@mttsteel) • [X @mattsteel](https://twitter.com/mattsteel) • [LinkedIn](https://www.linkedin.com/in/matteovitturi/)
+[GitHub](https://github.com/mattsteeldue) • [YouTube](https://www.youtube.com/@mttsteel) • [X/Twitter](https://twitter.com/mattsteel) • [LinkedIn](https://www.linkedin.com/in/matteovitturi/) • [itch](https://mattsteel.itch.io)
 
 ---
 
