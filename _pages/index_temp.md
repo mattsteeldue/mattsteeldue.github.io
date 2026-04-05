@@ -2,7 +2,7 @@
 title: "Matteo Vitturi"
 layout: single
 author_profile: true
-permalink: /
+permalink: /temp
 header:
   overlay_image: /assets/images/header.jpg   # Optional: you can add a nice header image later
   overlay_filter: 0.5
