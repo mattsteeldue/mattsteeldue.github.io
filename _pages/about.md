@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Software Engineer at **Capgemini** (Venice area, Italy), with over 30 years of experience in software development, systems analysis, and IT operations.
+Software Engineer based in Venice area, Italy, with over 30 years of experience in software development, systems analysis, and IT operations.
 
 I graduated from Università Ca’ Foscari Venezia and have worked as a consultant and engineer on various enterprise projects.
 
