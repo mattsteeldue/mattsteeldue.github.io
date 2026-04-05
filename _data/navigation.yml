@@ -7,6 +7,8 @@ main:
     url: /projects/
   - title: "Links"
     url: /links/
+  - title: "Resume"
+    url: /resume/
   - title: "GitHub"
     url: https://github.com/mattsteeldue
     target: _blank
