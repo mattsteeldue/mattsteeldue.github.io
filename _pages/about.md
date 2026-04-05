@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Senior Application Operations Engineer at **Capgemini** (Venice area, Italy), with over 30 years of experience in software development, systems analysis, and IT operations.
+Software Engineer at **Capgemini** (Venice area, Italy), with over 30 years of experience in software development, systems analysis, and IT operations.
 
 I graduated from Università Ca’ Foscari Venezia and have worked as a consultant and engineer on various enterprise projects.
 
@@ -18,3 +18,4 @@ When I'm not working, you can find me:
 - Exploring low-level programming and retro computing
 
 Feel free to connect with me on LinkedIn or follow my projects on GitHub.
+ 
