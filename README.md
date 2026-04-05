@@ -25,7 +25,7 @@ Outside of my professional work, I have a long-standing passion for low-level pr
 
 The latest updates, discussions, and community support for **vForth-Next** take place in the Facebook group I administer or in Discord:
 
-****[invitation kKRjRY5B to #Forth on Discord ZX Spectrum Next](https://discord.gg/kKRjRY5Bzx)**
+**[invitation kKRjRY5B to #Forth on Discord ZX Spectrum Next](https://discord.gg/kKRjRY5Bzx)**
 
 **[Forth on the ZX Spectrum, Next and 48K](https://www.facebook.com/groups/1326098804442710)**
 
@@ -36,6 +36,7 @@ Feel free to visit, ask questions, share your demos, or contribute ideas.
 - [GitHub](https://github.com/mattsteeldue) — Source code and repositories
 - [X / Twitter @mattsteel](https://twitter.com/mattsteel)
 - [LinkedIn](https://www.linkedin.com/in/matteovitturi)
+- [Facebook](https://www.facebook.com/mattsteel.mattsteel)
 
 Thank you for visiting. Whether you are interested in enterprise IT, Forth programming, or retro 8-bit systems, I hope you find something useful here.
 
