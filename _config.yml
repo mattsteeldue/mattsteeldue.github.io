@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 title: Matteo Vitturi
-subtitle: Senior Application Operations Engineer & Forth Developer
+subtitle: Software Engineer & Forth Developer
 description: >-
   Senior Application Operations Engineer at Capgemini (Venice area). 
   Passionate Forth programmer and ZX Spectrum Next developer since 1990.
@@ -18,7 +18,7 @@ repository: mattsteeldue/mattsteeldue.github.io   # Important for GitHub Pages
 # ---------------------------------------------------------------
 
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"   # You can update the version later if needed
-minimal_mistakes_skin: "mint"                       # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "dark"                       # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # ---------------------------------------------------------------
 # Build Settings
