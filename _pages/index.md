@@ -13,7 +13,7 @@ header:
 
 I am **Matteo Vitturi**, I'm a Software Engineer based in Venice area, Italy, with more than 30 years of experience in software development and IT operations.
 
-Outside of my professional work, I have a long-standing passion for low-level programming and retro computing. Since 1990 I have been developing and maintaining **vForth**, a [Forth system](https://www.pigdog.org/auto/electro_diddle/link/784.html) primarily targeted at the **ZX Spectrum 48K** and the **ZX Spectrum Next**.
+Outside of my professional work, I have a long-standing passion for low-level programming and retro computing. Since 1990 I have been developing and maintaining **vForth**, a [Forth system](http://www.figuk.plus.com/what.htm) primarily targeted at the **ZX Spectrum 48K** and the **ZX Spectrum Next**.
 
 ### Explore the Site
 
