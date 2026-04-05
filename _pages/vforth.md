@@ -87,6 +87,43 @@ If you are interested in Forth, retro computing, or the ZX Spectrum Next, feel f
 
 ---
 
+### Code Examples & Demos
+
+Over the years I have shared many practical examples and small demos in the community. Here are some of the most useful ones:
+
+#### Highlighted Demos & Code Snippets
+
+- **Layer 2 Color Picker** (with interrupt-driven mouse support)  
+  A practical tool to explore Layer 2 graphics and palette handling in vForth.
+
+- **Chomp (Pac-Man style game)**  
+  Classic demo using Screens #600–670. Load with `600 LOAD` then type `GAME`.
+
+- **IM2 Interrupt Example**  
+  Shows how to handle interrupts cleanly in vForth on the Spectrum Next.
+
+- **Random Number Generation** (16-bit and fast routines)  
+  Discussed in my “Programming the 80’s way” series with efficient implementations.
+
+- **Layer 2 Graphics Routines** (drawing lines, screen wipes using Z80N LDIRX, etc.)
+
+- **File Handling & NextOS Integration** examples (`SAVE-BYTES`, `OPEN<`, directory access)
+
+- **DEFER / IS** usage and `<BUILDS...DOES>` patterns
+
+Many of these started as discussions or code blocks I posted in the Facebook groups and were later refined in the repository.
+
+#### Where to Find Them
+
+- **[vforth-next Repository](https://github.com/mattsteeldue/vforth-next)** — Main source with examples in the `doc` folder and block screens
+- **[My YouTube Channel @mttsteel](https://www.youtube.com/@mttsteel)** — Short demo videos (Color Picker, Chomp, IM2 interrupts, etc.)
+- **[SpecNext Developer HQ – Forth Articles](https://specnext.dev/blog/topic/software/forth/)** — In-depth articles with code explanations (“Programming the 80’s way” series)
+- **[Facebook Group I Administer](https://www.facebook.com/groups/1326098804442710)** — Many additional code snippets, release notes, and real-time help discussions (search for “Color Picker”, “Chomp”, “Screen #520”, “Screen #600”, etc.)
+
+More examples are regularly added to the GitHub repository and discussed in the group.
+
+---
+
 **Want to get started?**  
 Clone the repository, or download the most recent .zip archive in the "download" section and follow the instructions in the README. There is a group of Wiki pages too.
 Feedback and pull requests are always welcome!
