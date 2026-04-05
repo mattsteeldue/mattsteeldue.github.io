@@ -25,7 +25,7 @@ Outside of my professional work, I have a long-standing passion for low-level pr
 
 The latest updates, discussions, and community support for **vForth-Next** take place in the Facebook group I administer or in Discord:
 
-**[invitation kKRjRY5B to #Forth on Discord ZX Spectrum Next](https://discord.gg/kKRjRY5Bzx)**
+**[Invitation kKRjRY5B to #Forth on Discord ZX Spectrum Next](https://discord.gg/kKRjRY5Bzx)**
 
 **[Forth on the ZX Spectrum, Next and 48K](https://www.facebook.com/groups/1326098804442710)**
 
