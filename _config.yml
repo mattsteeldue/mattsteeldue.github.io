@@ -28,6 +28,10 @@ markdown: kramdown
 plugins:
   - jekyll-include-cache   # Required for Minimal Mistakes on GitHub Pages
 
+# Include the _pages directory so Jekyll processes those files
+include:
+  - _pages  
+
 # ---------------------------------------------------------------
 # Author / Profile Information (appears in sidebar and about)
 # ---------------------------------------------------------------
