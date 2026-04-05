@@ -11,13 +11,15 @@ toc: true
 **Senior Application Operations Engineer**  
 Venice, Italy  
 
+[GitHub](https://github.com/mattsteeldue) • [YouTube @mttsteel](https://www.youtube.com/@mttsteel) • [X @mattsteel](https://twitter.com/mattsteel) • [LinkedIn](https://www.linkedin.com/in/matteovitturi/)
+
 ---
 
 ### Professional Summary
 
-Senior IT professional with over 25 years of experience in technical analysis, application operations, and insurance processes. Strong background in bridging business requirements with technical solutions, particularly in the insurance sector. 
+Senior IT professional with over 25 years of experience in technical analysis, application operations, and insurance systems. 
 
-Proficient in multiple programming languages and low-level systems. Passionate about elegant and efficient code, with a long-standing focus on the Forth programming language and retro computing platforms.
+Skilled at translating complex business requirements into reliable technical solutions. Deep expertise in low-level programming and a lifelong passion for elegant, efficient code — particularly with the **Forth** language on retro computing platforms.
 
 ---
 
@@ -25,19 +27,17 @@ Proficient in multiple programming languages and low-level systems. Passionate a
 
 **Senior Application Operations Engineer**  
 **Capgemini** — Venice Area, Italy  
-*January 2013 – Present*
+*2013 – Present*
 
-- Provide application operations support and technical expertise for enterprise clients.
-- Manage and optimize insurance-related procedures and systems.
-- Ensure stability, performance, and continuous improvement of critical applications.
+- Provide application operations support and technical expertise for enterprise clients in the insurance sector.
+- Optimize critical systems, ensure stability, and drive continuous improvement of business processes.
 
 **IT Technical Analyst**  
 **AIVE BST s.p.a. / AIVE** — Venice Area, Italy  
 *1998 – 2012*
 
-- Analyzed and implemented technical solutions for insurance procedures.
-- Worked on system integration, troubleshooting, and process automation.
-- Developed and maintained custom scripts and tools to support business operations.
+- Analyzed insurance procedures and designed/implemented technical solutions.
+- Developed scripts, tools, and integrations to automate and support core business operations.
 
 ---
 
@@ -45,35 +45,45 @@ Proficient in multiple programming languages and low-level systems. Passionate a
 
 **Degree in Economics**  
 **Università Ca’ Foscari Venezia** — Venice, Italy  
-*Completed in 2000*
+*Graduated 2000*
 
 **High School Diploma**  
 Venice, Italy
 
 **Military Service**  
-Lagunari Italian Amphibious Troops (Italian Army)
+Lagunari – Italian Amphibious Troops
 
 ---
 
-### Technical Skills & Interests
+### Technical Skills
 
-- **Programming Languages**: Forth (expert level), Z80 / Z80N assembly, SQL, and familiarity with many other languages and paradigms.
-- **Specialized Expertise**: Low-level programming, retro computing, cross-compilation for 8-bit systems.
-- **Quantum Computing**: Active contributor on Quantum Computing Stack Exchange with focus on quantum gates, unitary operations, circuit design, Qiskit, and IBM Quantum Experience.
-- **Other**: Application operations, insurance systems analysis, process automation, English and French (professional level).
+- **Core Expertise**: Forth (expert level), Z80/Z80N Assembly, low-level programming, cross-compilation for 8-bit systems.
+- **Other Languages & Tools**: SQL, scripting, process automation, application operations.
+- **Special Interests**: ZX Spectrum Next hardware integration (Layer 2 graphics, sprites, DMA, copper, sound, NextOS).
+- **Quantum Computing**: Active contributor on Quantum Computing Stack Exchange (quantum gates, unitary operations, circuit design, Qiskit).
 
 ---
 
-### Personal Projects
+### Personal Projects & Community Contributions
 
-**vForth & vforth-next** (since 1990)  
-Author and maintainer of **vForth**, a Forth system designed for the ZX Spectrum 48K and especially optimized for the **ZX Spectrum Next**.
+**vForth & vforth-next** (1990 – Present)  
+Author and maintainer of **vForth**, a Forth system for the ZX Spectrum 48K and highly optimized for the **ZX Spectrum Next**.
 
-- Full Z80N extended instruction set support (MUL, SWAPNIB, Layer 2 graphics integration, DMA, copper, sound, etc.).
-- Small memory footprint with fast Direct Threaded Code interpreter.
-- Active community support through the “Forth on the ZX Spectrum, Next and 48K” Facebook group (administrator).
+- Full support for the Z80N extended instruction set.
+- Deep integration with Next hardware features (Layer 2, tilemaps, sprites, DMA, copper, sound, NextOS file system).
+- Fast Direct Threaded Code interpreter with very small memory footprint.
+- Regular releases, example programs, and utilities.
 
-→ [vForth on GitHub](https://github.com/mattsteeldue/vforth-next)
+**Technical Writing & Community**  
+- Regular contributor to the official **SpecNext Developer HQ** blog (specnext.dev), with in-depth articles on Forth programming for the ZX Spectrum Next, including:
+  - “Programming the 80’s way” series (multiple parts)
+  - Topics on random number generation, 32-bit arithmetic, integer handling, and advanced Z80N usage
+- YouTube channel **@mttsteel**: Videos and presentations about vForth and Forth on the ZX Spectrum Next (including FORTH2020 talks).
+- Administrator of the Facebook group **“Forth on the ZX Spectrum, Next and 48K”** — the primary community hub for vForth discussions, help, and demos.
+
+→ [vforth-next on GitHub](https://github.com/mattsteeldue/vforth-next)  
+→ [YouTube Channel](https://www.youtube.com/@mttsteel)  
+→ [SpecNext Developer HQ – Forth Articles](https://specnext.dev/blog/topic/software/forth/)
 
 ---
 
@@ -88,10 +98,8 @@ Author and maintainer of **vForth**, a Forth system designed for the ZX Spectrum
 
 ### Additional Information
 
-Born and raised in Venice, Italy.  
-After high school, served with the Lagunari (Italian amphibious troops) before completing university studies.
+Born and raised in Venice, Italy. After high school, completed military service with the Lagunari amphibious troops before graduating in Economics.
 
 ---
 
 *Last updated: April 2026*
-](https://specnext.dev/blog/2022/07/22/programming-the-80s-way-4/)
