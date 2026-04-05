@@ -1,4 +1,4 @@
----
+[---
 title: "Resume"
 permalink: /resume/
 layout: single
@@ -94,3 +94,4 @@ After high school, served with the Lagunari (Italian amphibious troops) before c
 ---
 
 *Last updated: April 2026*
+](https://specnext.dev/blog/2022/07/22/programming-the-80s-way-4/)
