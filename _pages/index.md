@@ -38,7 +38,7 @@ Feel free to visit, ask questions, share your demos, or contribute ideas.
 - [LinkedIn](https://www.linkedin.com/in/matteovitturi)
 - [Facebook](https://www.facebook.com/mattsteel.mattsteel)
 
-Thank you for visiting. Whether you are interested in enterprise IT, Forth programming, or retro 8-bit systems, I hope you find something useful here.
+Thank you for visiting. Whether you are interested in Software Engineering, Forth programming, or retro 8-bit systems, I hope you find something useful here.
 
 ---
 
