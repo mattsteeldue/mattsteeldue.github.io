@@ -4,42 +4,43 @@ layout: single
 author_profile: true
 permalink: /
 header:
-  overlay_image: /assets/images/venice-area.jfif
-  overlay_filter: 0.5
-  caption: "Venice, Italy"
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: 0.4
 ---
 
-# Welcome
+# Hi, I'm Matteo Vitturi
 
-I am **Matteo Vitturi**, I'm a Software Engineer based in Venice area, Italy, with more than 30 years of experience in software development and IT operations.
+**IT Engineer & Long-time Forth Developer** based in Venice, Italy, with over 25 years of experience in technical analysis, application operations, and insurance systems.
 
-Outside of my professional work, I have a long-standing passion for low-level programming and retro computing. Since 1990 I have been developing and maintaining **vForth**, a [Forth system](http://www.forth2020.org/about-forth) primarily targeted at the **ZX Spectrum 48K** and the **ZX Spectrum Next**.
+I graduated in Economics from **Università Ca’ Foscari Venezia** in 2000, after serving with the Lagunari Italian amphibious troops.
 
-### Explore the Site
+### My Passion: Forth & ZX Spectrum Next
 
-- **[About Me](/about/)** — Professional background and personal interests
+Since 1990 I have been developing **vForth**, a Forth system for the ZX Spectrum 48K and especially optimized for the **ZX Spectrum Next**.
+
+I actively contribute to the community by:
+- Maintaining **vforth-next** with full Z80N support and hardware integration (Layer 2, sprites, DMA, copper, sound, NextOS)
+- Writing technical articles for the official [SpecNext Developer HQ](https://specnext.dev/blog/topic/software/forth/)
+- Sharing videos and presentations on my [YouTube channel @mttsteel](https://www.youtube.com/@mttsteel)
+- Administering the Facebook group [Forth on the ZX Spectrum, Next and 48K](https://www.facebook.com/groups/1326098804442710)
+
+I also enjoy exploring quantum computing and playing guitar in my free time.
+
+---
+
+### Explore
+
+- **[About & Resume](/about/)** — Full professional background
+- **[vForth](/vforth/)** — My Forth projects and technical documentation
 - **[Projects](/projects/)** — Overview of my work
-- **[vForth](/vforth/)** — My Forth system for ZX Spectrum and Spectrum Next (with technical details and Z80N support)
 
-### Active Development
+Feel free to connect with me on:
+- [GitHub](https://github.com/mattsteeldue)
+- [LinkedIn](https://www.linkedin.com/in/matteovitturi/)
+- [X @mattsteel](https://twitter.com/mattsteel)
 
-The latest updates, discussions, and community support for **vForth-Next** take place in the Facebook group I administer or in Discord:
-
-**[Invitation kKRjRY5B to #Forth on Discord ZX Spectrum Next](https://discord.gg/kKRjRY5Bzx)**
-
-**[Forth on the ZX Spectrum, Next and 48K](https://www.facebook.com/groups/1326098804442710)**
-
-Feel free to visit, ask questions, share your demos, or contribute ideas.
-
-### Connect with Me
-
-- [GitHub](https://github.com/mattsteeldue) — Source code and repositories
-- [X / Twitter @mattsteel](https://twitter.com/mattsteel)
-- [LinkedIn](https://www.linkedin.com/in/matteovitturi)
-- [Facebook](https://www.facebook.com/mattsteel.mattsteel)
-
-Thank you for visiting. Whether you are interested in Software Engineering, Forth programming, or retro 8-bit systems, I hope you find something useful here.
+I'm always happy to discuss Forth, retro computing, or technical challenges.
 
 ---
 
-*Last updated: April 2026*
+*Venice, Italy • Last updated April 2026*
