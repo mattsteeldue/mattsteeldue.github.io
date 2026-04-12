@@ -38,7 +38,7 @@ include:
 
 author:
   name: Matteo Vitturi
-  avatar: "/assets/images/ZOOM.PNG"     # Upload your photo to /assets/images/
+  avatar: "/assets/images/bio-photo.jpg"     # Upload your photo to /assets/images/
   bio: >-
     Software Engineer with over 30 years of experience.
     Long-time Forth enthusiast, creator of vForth, and active ZX Spectrum Next developer.
