@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /
 header:
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/venice-area
   overlay_filter: 0.4
 ---
 
