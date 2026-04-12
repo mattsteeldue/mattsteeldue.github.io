@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 toc: true
 header:
-  overlay_image: /assets/images/venice-area.jfif
+  overlay_image: /assets/images/V2024K.jpg
   overlay_filter: 0.4
 ---
 ### What is vForth?
@@ -21,13 +21,13 @@ The project has two main branches:
 
 <div class="gallery">
   <img src="/assets/images/color-picker.jpg" alt="Layer 2 Color Picker in vForth" style="width:100%; max-width:600px; margin:10px 0;">
-  <p>x[</strong>Layer 2</strong> Color Picker – Mouse-driven palette explorer with interrupt support](https://youtu.be/d_ehmFJFKas)</p>
+  <p></strong><a href="https://youtu.be/0ZuuJHalBKI)">Layer 2 Color Picker</a></strong> – Mouse-driven palette explorer with interrupt support</p>
 
   <img src="/assets/images/chomp-game.jpg" alt="Chomp game in vForth" style="width:100%; max-width:600px; margin:10px 0;">
-  <p>[<strong>Chomp</strong> – Pac-Man style game (Screens #600–670)](https://youtu.be/0ZuuJHalBKI)</p>
+  <p><strong><a href="https://youtu.be/0ZuuJHalBKI"> Chomp</a></strong> – Pac-Man style game (Screens #600–670)</p>
 
   <img src="/assets/images/layer2-demo.jpg" alt="Layer 2 graphics demo in vForth" style="width:100%; max-width:600px; margin:10px 0;">
-  <p>[<strong>Layer 2 Graphics Demo</strong> – Transitions and effects using Z80N instructions](https://youtu.be/14yTX5d_ETA)</p>
+  <p><strong><a href="https://youtu.be/14yTX5d_ETA">Layer 2 Graphics Demo</a></strong> – Transitions and effects using Z80N instructions</p>
 </div>
 
 #### Other Notable Examples
