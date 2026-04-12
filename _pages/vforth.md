@@ -9,6 +9,20 @@ header:
   overlay_filter: 0.4
 ---
 
+#### Gallery
+
+<div class="gallery">
+  <img src="/assets/images/color-picker.jpg" alt="Layer 2 Color Picker in vForth" style="width:100%; max-width:600px; margin:10px 0;">
+  <p><strong>Layer 2 Color Picker</strong> – Mouse-driven palette explorer with interrupt support</p>
+
+  <img src="/assets/images/chomp-game.jpg" alt="Chomp game in vForth" style="width:100%; max-width:600px; margin:10px 0;">
+  <p><strong>Chomp</strong> – Pac-Man style game (Screens #600–670)</p>
+
+  <img src="/assets/images/layer2-demo.jpg" alt="Layer 2 graphics demo in vForth" style="width:100%; max-width:600px; margin:10px 0;">
+  <p><strong>Layer 2 Graphics Demo</strong> – Transitions and effects using Z80N instructions</p>
+</div>
+
+
 ### What is vForth?
 
 **vForth** is a Forth system I have been developing since 1990, specific for ZX Spectrum 48K, ZX Spectrum Next, and their emulators.
