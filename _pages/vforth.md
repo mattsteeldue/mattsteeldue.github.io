@@ -4,9 +4,6 @@ permalink: /vforth/
 layout: single
 author_profile: true
 toc: true
-header:
-  overlay_image: /assets/images/V2024K.jpg
-  overlay_filter: 0.4
 ---
 ### What is vForth?
 
@@ -21,7 +18,7 @@ The project has two main branches:
 
 <div class="gallery">
   <img src="/assets/images/color-picker.jpg" alt="Layer 2 Color Picker in vForth" style="width:100%; max-width:600px; margin:10px 0;">
-  <p></strong><a href="https://youtu.be/0ZuuJHalBKI)">Layer 2 Color Picker</a></strong> – Mouse-driven palette explorer with interrupt support</p>
+  <p><strong><a href="https://youtu.be/0ZuuJHalBKI)">Layer 2 Color Picker</a></strong> – Mouse-driven palette explorer with interrupt support</p>
 
   <img src="/assets/images/chomp-game.jpg" alt="Chomp game in vForth" style="width:100%; max-width:600px; margin:10px 0;">
   <p><strong><a href="https://youtu.be/0ZuuJHalBKI"> Chomp</a></strong> – Pac-Man style game (Screens #600–670)</p>
