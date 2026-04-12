@@ -21,13 +21,13 @@ The project has two main branches:
 
 <div class="gallery">
   <img src="/assets/images/color-picker.jpg" alt="Layer 2 Color Picker in vForth" style="width:100%; max-width:600px; margin:10px 0;">
-  <p><strong>Layer 2 Color Picker</strong> – Mouse-driven palette explorer with interrupt support</p>
+  <p>x[</strong>Layer 2</strong> Color Picker – Mouse-driven palette explorer with interrupt support](https://youtu.be/d_ehmFJFKas)</p>
 
   <img src="/assets/images/chomp-game.jpg" alt="Chomp game in vForth" style="width:100%; max-width:600px; margin:10px 0;">
-  <p><strong>Chomp</strong> – Pac-Man style game (Screens #600–670)</p>
+  <p>[<strong>Chomp</strong> – Pac-Man style game (Screens #600–670)](https://youtu.be/0ZuuJHalBKI)</p>
 
   <img src="/assets/images/layer2-demo.jpg" alt="Layer 2 graphics demo in vForth" style="width:100%; max-width:600px; margin:10px 0;">
-  <p><strong>Layer 2 Graphics Demo</strong> – Transitions and effects using Z80N instructions</p>
+  <p>[<strong>Layer 2 Graphics Demo</strong> – Transitions and effects using Z80N instructions](https://youtu.be/14yTX5d_ETA)</p>
 </div>
 
 #### Other Notable Examples
