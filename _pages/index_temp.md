@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /temp
 header:
-  overlay_image: /assets/images/header.jpg   # Optional: you can add a nice header image later
+  overlay_image: /assets/images/venice-area.jfif   # Optional: you can add a nice header image later
   overlay_filter: 0.5
   caption: "Venice, Italy"
 ---
