@@ -8,6 +8,14 @@ header:
   overlay_image: /assets/images/venice-area.jfif
   overlay_filter: 0.4
 ---
+### What is vForth?
+
+**vForth** is a Forth system I have been developing since 1990, specific for ZX Spectrum 48K, ZX Spectrum Next, and their emulators.
+
+The project has two main branches:
+- **vForth** – the old 48K core system
+- **vforth-next** – optimized version and tools specifically for the **ZX Spectrum Next**
+
 
 #### Gallery
 
@@ -22,14 +30,14 @@ header:
   <p><strong>Layer 2 Graphics Demo</strong> – Transitions and effects using Z80N instructions</p>
 </div>
 
+#### Other Notable Examples
+- IM2 Interrupt Handling
+- Fast Random Number Routines
+- File I/O with NextOS
+- Advanced Forth techniques (`DEFER/IS`, `<BUILDS...DOES>`)
 
-### What is vForth?
+Many of these examples are available in the repository and were first demonstrated in the Facebook group or on YouTube.
 
-**vForth** is a Forth system I have been developing since 1990, specific for ZX Spectrum 48K, ZX Spectrum Next, and their emulators.
-
-The project has two main branches:
-- **vForth** – the old 48K core system
-- **vforth-next** – optimized version and tools specifically for the **ZX Spectrum Next**
 
 ### Key Features
 
