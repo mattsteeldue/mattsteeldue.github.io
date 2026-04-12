@@ -8,8 +8,6 @@ header:
   overlay_filter: 0.4
 ---
 
-# Hi, I'm Matteo Vitturi
-
 **IT Engineer & Long-time Forth Developer** based in Venice, Italy, with over 25 years of experience in technical analysis, application operations, and insurance systems.
 
 I graduated in Economics from **Università Ca’ Foscari Venezia** in 2000, after serving with the Lagunari Italian amphibious troops.
