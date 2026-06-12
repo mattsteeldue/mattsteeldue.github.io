@@ -101,6 +101,7 @@ This is currently the most active place for:
 You are welcome to join and participate — everyone interested in Forth on Spectrum machines is invited.
 
 ### Links
+- [Spectrum Next Discord](https://discord.gg/fBNDkghH) 
 - [vforth-next Repository](https://github.com/mattsteeldue/vforth-next)
 - [Facebook Community](https://www.facebook.com/groups/1326098804442710)
 
