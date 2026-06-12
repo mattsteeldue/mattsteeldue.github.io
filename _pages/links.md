@@ -9,6 +9,13 @@ author_profile: true
 
 Here are some of the places where you can find my work and contributions:
 
+#### Social
+
+- [Spectrum Next Discord](https://discord.gg/fBNDkghH) 
+- [vforth-next Repository](https://github.com/mattsteeldue/vforth-next)
+- [Facebook Community](https://www.facebook.com/groups/1326098804442710)
+
+
 #### ZX Spectrum Next & Forth Projects
 
 - **[ZX Attic](https://sites.google.com/view/vforth/home)**  
